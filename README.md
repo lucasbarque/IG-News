@@ -61,10 +61,10 @@ Em Posts, acessamos os artigos.
 
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/lucasbarque/ig-news.git
+$ git clone https://github.com/lucasbarque/IG-News.git
 
 # Acesse a pasta da aplicação
-$ cd ig-news
+$ cd IG-News
 
 # Crie um arquivo .env.local e coloque as variaveis
 # de ambiente baseado no arquivo .env.example 
