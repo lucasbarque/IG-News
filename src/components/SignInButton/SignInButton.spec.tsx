@@ -29,6 +29,8 @@ describe('SignInButton component', () => {
 
     render(<SignInButton />);
 
+    // screen.logTestingPlaygroundURL();
+
     expect(screen.getByText('John Doe')).toBeInTheDocument();
   });
 })
